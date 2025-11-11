@@ -5,6 +5,11 @@
         background-image: linear-gradient(to top, var(--cor01), var(--cor02));
     }
     section#login{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+
         width: 80vw;
         height: 290px;
     }
@@ -24,6 +29,11 @@
         background-image: linear-gradient(to top, var(--cor01), var(--cor02));
     }
     section#login{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+
         width: 950px;
         height: 330px;
     }
